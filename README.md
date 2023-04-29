@@ -1,5 +1,5 @@
 # HIER IST EIN PROGRAMM, DAS:
-.Den Benutzer bittet, einen Temperaturwert in Fahrenheit einzugeben (mit Nachkommastellen).
-.Den Wert in Grad Celsius umrechnet.
-.Das Ergebnis ausgibt (mit Nachkommastellen).
-.Nach dieser Ausgabe wird der Nutzer gefragt, ob er eine weitere Berechnung durchführen möchte (Antwort mit ’j’ oder ’n’).
+1. Den Benutzer bittet, einen Temperaturwert in Fahrenheit einzugeben (mit Nachkommastellen).
+2. Den Wert in Grad Celsius umrechnet.
+3. Das Ergebnis ausgibt (mit Nachkommastellen).
+4. Nach dieser Ausgabe wird der Nutzer gefragt, ob er eine weitere Berechnung durchführen möchte (Antwort mit ’j’ oder ’n’).
